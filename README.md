@@ -1,2 +1,2 @@
-# datathon_example
+# semantic-and-similarity-search
 rag/nlp
